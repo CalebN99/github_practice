@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Github Prac</title>
+    <title>Github Practice</title>
 </head>
 <body>
     <h1>Hello World....</h1>
